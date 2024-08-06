@@ -45,6 +45,10 @@ button {
     background: yellowgreen;
 }
 
+#decrement-btn {
+    background: rgb(211, 87, 20);
+}
+
 #save-btn {
     background: blueviolet;
 }
