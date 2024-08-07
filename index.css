@@ -41,6 +41,10 @@ button {
     border-radius: 5px;
 }
 
+#text{
+    color:rgb(39, 21, 11)
+}
+
 #increment-btn {
     background: yellowgreen;
 }
